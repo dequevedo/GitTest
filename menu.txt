@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 menu normalzinho da branch master
-=======
 MENU DA BRANCH 2
->>>>>>> Branch2
