@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27bda57d-4378-470d-98a6-7105290091d1" name="Default Changelist" comment="Mensagem do commit que eu corrigi o merge" />
+    <list default="true" id="27bda57d-4378-470d-98a6-7105290091d1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/GitTestHTML.html" beforeDir="false" afterPath="$PROJECT_DIR$/GitTestHTML.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +30,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -47,10 +50,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Benefits/BENEFITS.transactions/src/main/kotlin/com/edenred/benefits/transactions/infra/Messages.kt" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -63,6 +67,8 @@
       <option name="presentableId" value="Default" />
       <updated>1581942532548</updated>
       <workItem from="1581942533926" duration="3286000" />
+      <workItem from="1582031871753" duration="23000" />
+      <workItem from="1582031906670" duration="115000" />
     </task>
     <task id="LOCAL-00001" summary="Mensagem do commit que eu corrigi o merge">
       <created>1581942706232</created>
@@ -78,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581943558687</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Mensagem do commit que eu corrigi o merge">
+      <created>1582031941593</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1582031941593</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,17 +106,18 @@
       <screen x="1366" y="0" width="1600" height="900" />
     </state>
     <state x="1761" y="111" width="800" height="681" key="#Notifications/45.27.1321.741/1366.0.1600.900@1366.0.1600.900" timestamp="1581943500061" />
-    <state x="1731" y="46" width="860" height="811" key="CommitChangelistDialog2" timestamp="1581943575804">
+    <state x="1731" y="46" width="860" height="811" key="CommitChangelistDialog2" timestamp="1582031941505">
       <screen x="1366" y="0" width="1600" height="900" />
     </state>
-    <state x="1731" y="46" width="860" height="811" key="CommitChangelistDialog2/45.27.1321.741/1366.0.1600.900@1366.0.1600.900" timestamp="1581943575804" />
+    <state x="1731" y="46" width="860" height="811" key="CommitChangelistDialog2/45.27.1321.741/1366.0.1600.900@1366.0.1600.900" timestamp="1582031941505" />
     <state x="1466" y="100" width="1400" height="700" key="DiffContextDialog" timestamp="1581943524672">
       <screen x="1366" y="0" width="1600" height="900" />
     </state>
     <state x="1466" y="100" width="1400" height="700" key="DiffContextDialog/45.27.1321.741/1366.0.1600.900@1366.0.1600.900" timestamp="1581943524672" />
-    <state x="488" y="155" width="424" height="488" key="FileChooserDialogImpl" timestamp="1581972383020">
-      <screen x="45" y="27" width="1321" height="741" />
+    <state x="1903" y="155" width="424" height="488" key="FileChooserDialogImpl" timestamp="1582031891419">
+      <screen x="1366" y="0" width="1600" height="900" />
     </state>
+    <state x="1903" y="155" width="424" height="488" key="FileChooserDialogImpl/45.27.1321.741/1366.0.1600.900@1366.0.1600.900" timestamp="1582031891419" />
     <state x="488" y="155" width="424" height="488" key="FileChooserDialogImpl/45.27.1321.741/1366.0.1600.900@45.27.1321.741" timestamp="1581972383020" />
     <state x="1466" y="100" width="1400" height="700" key="ShowDiffWithBranchDialog" timestamp="1581942849860">
       <screen x="1366" y="0" width="1600" height="900" />
